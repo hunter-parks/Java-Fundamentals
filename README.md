@@ -10,7 +10,7 @@ This repository focuses on building a solid foundation in Java through hands-on 
 |---|---|---|
 | Day 1 | Loops, conditionals, operators, and accumulators | Completed |
 | Day 2 | Arrays, ArrayLists, filtering, and data calculations | Completed |
-| Day 3 | Methods, parameters, and return values | Up Next |
+| Day 3 | Methods, parameters, and return values | Completed |
 | Day 4 | Classes, objects, and constructors | Planned |
 | Day 5 | Object-oriented programming mini-project | Planned |
 | Day 6 | Inheritance, interfaces, and encapsulation | Planned |
@@ -18,25 +18,6 @@ This repository focuses on building a solid foundation in Java through hands-on 
 | Day 8 | Exception handling and file I/O | Planned |
 | Day 9 | Data analysis mini-project | Planned |
 | Day 10 | Final Java fundamentals assessment | Planned |
-
-## Completed Exercises
-
-### Day 1 — Programming Fundamentals
-
-- Practiced `for` loops and conditional statements.
-- Used modulo operators to identify numbers meeting specific conditions.
-- Built FizzBuzz.
-- Calculated running totals, counts, and averages.
-- Practiced nested conditions and tracking maximum values.
-
-### Day 2 — Arrays and ArrayLists
-
-- Accessed and modified array elements.
-- Iterated through arrays using indexes.
-- Calculated totals, averages, minimums, and maximums.
-- Filtered values based on conditions.
-- Created and modified ArrayLists using `add()`, `get()`, `set()`, and `remove()`.
-- Used ArrayLists to calculate streaming totals and count qualifying values.
 
 ## Technologies
 
