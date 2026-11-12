@@ -11,8 +11,8 @@ This repository focuses on building a solid foundation in Java through hands-on 
 | Day 1 | Loops, conditionals, operators, and accumulators | Completed |
 | Day 2 | Arrays, ArrayLists, filtering, and data calculations | Completed |
 | Day 3 | Methods, parameters, and return values | Completed |
-| Day 4 | Classes, objects, and constructors | Planned |
-| Day 5 | Object-oriented programming mini-project | Planned |
+| Day 4 | Classes, objects, and constructors | Completed |
+| Day 5 | Object-oriented programming mini-project | In Progress |
 | Day 6 | Inheritance, interfaces, and encapsulation | Planned |
 | Day 7 | HashMaps, collections, and generics | Planned |
 | Day 8 | Exception handling and file I/O | Planned |
